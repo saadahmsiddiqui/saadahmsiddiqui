@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+I know enough Javascript and Typescript to make your DeFi/DApps go 🚀. I like working on reusable JS/TS libraries, specially for Web3! 
 <!--
 **saadjhk/saadjhk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
