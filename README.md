@@ -1,19 +1,58 @@
-### Hi there 👋
+## Hi there 👋 I'm a Full-Stack developer
 
-I know enough Javascript and Typescript to make your DeFi/DApps go 🚀. I like working on reusable JS/TS libraries, specially for Web3! 
-- 🌱 I’m currently learning Solidity and RUST to become a complete Web3 degen
+<a href="https://t.me/saadjhk">
+  <img align="left" alt="Telegram" width="22px" src="https://camo.githubusercontent.com/5c1975da7d9ab735ceb71c57b6c7e48ff3e08ca4/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f74656c656772616d2e737667">
+</a>
 
-<!--
-**saadjhk/saadjhk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<a href="https://www.linkedin.com/in/saadjhk/">
+  <img align="left" alt="LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+</a>
 
-Here are some ideas to get you started:
+</br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
+## About me
+
+- 🔭 I’m currently working with **[Advanced Blockchain](https://www.advancedblockchain.com/)**
+- 🌱 I know enough Javascript and Typescript to make your DeFi/DApps go 🚀. I like working on reusable JS/TS libraries, specially for Web3! 
+
+<!-- - 📫 How to reach me: ...
+- 💬 Ask me about  | ![Python](https://img.shields.io/badge/Python-3.7-informational)
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ⚡ Fun fact: ... -->
+
+# Technology stack
+
+## **Back-end**
+![NodeJS](https://img.shields.io/badge/NodeJS-green)
+![NestJS](https://img.shields.io/badge/NestJS-red)
+![ExpressJS](https://img.shields.io/badge/ExpressJS-black)
+
+## **Databases**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-db-blue)
+![MongoDB](https://img.shields.io/badge/MongoDB-orange)
+
+
+## **Front-end**
+### - **Basic Tools**
+![Figma](https://img.shields.io/badge/Figma-Design-red)
+### - **Main**
+![HTML](https://img.shields.io/badge/HTML-5-informational)
+![CSS](https://img.shields.io/badge/CSS-3-informational)
+![Materialize](https://img.shields.io/badge/Materialize-CSS-green)
+![ChakraUI](https://img.shields.io/badge/ChakraUI-CSS-green)
+### - **JavaScript**
+![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
+![Vue.js](https://img.shields.io/badge/-Vue.js-%232c3e50?style=flat-square&logo=vue-dot-js)
+
+
+## **Tools**
+![Linux](https://img.shields.io/badge/Linux-black?style=flat-square&logo=linux)
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+
+## **Github Stats**
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=saadjhk&hide=contribs,prs&show_icons=true&theme=highcontrast)](https://github.com/saadjhk/github-readme-stats)
+
+## **Top Langs**
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saadjhk&layout=compact&theme=highcontrast)](https://github.com/saadjhk/github-readme-stats)
