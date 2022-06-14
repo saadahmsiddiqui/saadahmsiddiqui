@@ -14,6 +14,7 @@
 
 - 🔭 I’m currently working with **[Advanced Blockchain](https://www.advancedblockchain.com/)**
 - 🌱 I know enough Javascript and Typescript to make your DeFi/DApps go 🚀. I like working on reusable JS/TS libraries, specially for Web3! 
+- 🏄 Exploring RUST
 
 <!-- - 📫 How to reach me: ...
 - 💬 Ask me about  | ![Python](https://img.shields.io/badge/Python-3.7-informational)
