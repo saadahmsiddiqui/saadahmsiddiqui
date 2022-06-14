@@ -23,31 +23,19 @@
 
 # Technology stack
 
-## **Back-end**
 ![NodeJS](https://img.shields.io/badge/NodeJS-green)
 ![NestJS](https://img.shields.io/badge/NestJS-red)
 ![ExpressJS](https://img.shields.io/badge/ExpressJS-black)
-
-## **Databases**
-
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-db-blue)
 ![MongoDB](https://img.shields.io/badge/MongoDB-orange)
-
-
-## **Front-end**
-### - **Basic Tools**
 ![Figma](https://img.shields.io/badge/Figma-Design-red)
 ### - **Main**
 ![HTML](https://img.shields.io/badge/HTML-5-informational)
 ![CSS](https://img.shields.io/badge/CSS-3-informational)
 ![Materialize](https://img.shields.io/badge/Materialize-CSS-green)
 ![ChakraUI](https://img.shields.io/badge/ChakraUI-CSS-green)
-### - **JavaScript**
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
 ![Vue.js](https://img.shields.io/badge/-Vue.js-%232c3e50?style=flat-square&logo=vue-dot-js)
-
-
-## **Tools**
 ![Linux](https://img.shields.io/badge/Linux-black?style=flat-square&logo=linux)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
