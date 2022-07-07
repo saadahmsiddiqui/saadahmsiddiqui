@@ -39,5 +39,3 @@
 ## **Github Stats**
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=saadjhk&hide=contribs,prs&show_icons=true&theme=highcontrast)](https://github.com/saadjhk/github-readme-stats)
 
-## **Top Langs**
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saadjhk&layout=compact&theme=highcontrast)](https://github.com/saadjhk/github-readme-stats)
