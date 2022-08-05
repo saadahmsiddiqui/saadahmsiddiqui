@@ -37,5 +37,5 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 
 ## **Github Stats**
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=saadjhk&show_icons=true&theme=radical&count_private=true&include_all_commits=true](https://github.com/saadjhk/github-readme-stats)
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=saadjhk&show_icons=true&theme=radical&count_private=true&include_all_commits=true])
 
