@@ -16,7 +16,7 @@
 - 🌱 I know enough Javascript and Typescript to make your DeFi/DApps go 🚀. I like working on reusable JS/TS libraries, specially for Web3! 
 - 🏄 Exploring RUST
 
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{lilaroky}/count.svg" /></p> 
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{saadjhk}/count.svg" /></p> 
 
 <!-- - 📫 How to reach me: ...
 - 💬 Ask me about  | ![Python](https://img.shields.io/badge/Python-3.7-informational)
