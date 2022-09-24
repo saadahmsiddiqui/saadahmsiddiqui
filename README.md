@@ -12,8 +12,7 @@
 
 ## About me
 
-- 🔭 I’m currently working with **[Advanced Blockchain](https://www.advancedblockchain.com/)**
-- 🌱 I know enough Javascript and Typescript to make your DeFi/DApps go 🚀. I like working on reusable JS/TS libraries, specially for Web3! 
+- 🌱 Javascript and Typescript make your DeFi/DApps go 🚀. I like working on JS/TS libraries, specially for Web3! 
 - 🏄 Exploring RUST
 
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{saadjhk}/count.svg" /></p> 
