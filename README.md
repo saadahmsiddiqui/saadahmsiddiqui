@@ -22,6 +22,6 @@
 - 💬 Ask me about  | ![Python](https://img.shields.io/badge/Python-3.7-informational)
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ... -->
-## **Github Stats**
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=saadjhk&show_icons=true&theme=radical&count_private=true&include_all_commits=true])
+<!-- ## **Github Stats** -->
+<!-- ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=saadjhk&show_icons=true&theme=radical&count_private=true&include_all_commits=true]) -->
 
