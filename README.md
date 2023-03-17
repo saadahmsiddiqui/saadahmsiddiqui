@@ -18,7 +18,7 @@
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{saadjhk}/count.svg" /></p> 
 
 [![committers.top badge](https://user-badge.committers.top/pakistan/saadjhk.svg)](https://user-badge.committers.top/pakistan/saadjhk)
-[Streak](https://streak-stats.demolab.com/?user=saadjhk)
+![Streak](https://streak-stats.demolab.com/?user=saadjhk)
 <!-- - 📫 How to reach me: ...
 - 💬 Ask me about  | ![Python](https://img.shields.io/badge/Python-3.7-informational)
 - 😄 Pronouns: ...
