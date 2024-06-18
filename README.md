@@ -15,5 +15,4 @@
 - Javascript and Typescript for DeFi/DApps. I like working on JS/TS libraries, specially for Web3! 
 - Exploring RUST
 
-![Streak](https://streak-stats.demolab.com/?user=saadjhk)
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=saadjhk)
