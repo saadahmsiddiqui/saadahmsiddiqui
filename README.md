@@ -22,4 +22,6 @@
   - `cosmos132rvcuend9hj03gkkctje4rr9zu4j30588l8tr`
 - SOL:
   - `9NoCTAoKK56Qz3RCQgfSwqteGfgbxSBdNQ4FauQosEoA`
+- DOT:
+  - `14PUpssJjWjUu9VWpn4zzMb6TQaarBybZRdSPHTAvspvwKtB`
 <!-- ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=saadjhk) -->
