@@ -25,6 +25,6 @@
   - `9NoCTAoKK56Qz3RCQgfSwqteGfgbxSBdNQ4FauQosEoA`
 - DOT:
   - `14PUpssJjWjUu9VWpn4zzMb6TQaarBybZRdSPHTAvspvwKtB`
-- SSH Public Key
-  - `ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAICMFcwdsFd+ZAVFwJX1lS978ClYWkERfxqkvSFyXwgme saadahm.siddiqui@gmail.com`
-<!-- ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=saadjhk) -->
+
+SSH Public Key
+- `ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAICMFcwdsFd+ZAVFwJX1lS978ClYWkERfxqkvSFyXwgme saadahm.siddiqui@gmail.com`
