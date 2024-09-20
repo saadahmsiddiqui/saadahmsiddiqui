@@ -1,7 +1,5 @@
 ## Hi, I'm a Full-Stack developer
 
-- <a href="https://t.me/saadjhk">Telegram</a>
-- <a href="https://www.linkedin.com/in/saadjhk/">Linkedin</a>
 - <a href="mailto:saadahm.siddiqui@gmail.com">saadahm.siddiqui@gmail.com</a>
 
 </br>
