@@ -1,6 +1,6 @@
 ## Hi, I'm a Full-Stack developer
 
-Bachelors of Sciences in Computer Sciences from National University of Computer and Emerging Sciences, Karachi, Pakistan.
+Bachelors of Science in Computer Sciences from National University of Computer and Emerging Sciences, Karachi, Pakistan.
 
 - <a href="mailto:saadahm.siddiqui@gmail.com">saadahm.siddiqui@gmail.com</a>
 - WhatsApp: +49 177 2046 189
