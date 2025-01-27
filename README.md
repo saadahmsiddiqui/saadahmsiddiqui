@@ -3,7 +3,6 @@
 Bachelors of Science in Computer Sciences from National University of Computer and Emerging Sciences, Karachi, Pakistan.
 
 - <a href="mailto:saadahm.siddiqui@gmail.com">saadahm.siddiqui@gmail.com</a>
-- WhatsApp: +49 177 2046 189
 
 </br>
 
