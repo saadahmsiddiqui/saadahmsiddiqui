@@ -3,6 +3,7 @@
 Bachelors of Science in Computer Sciences from National University of Computer and Emerging Sciences, Karachi, Pakistan.
 
 - <a href="mailto:saadahm.siddiqui@gmail.com">saadahm.siddiqui@gmail.com</a>
+- <a href="https://leetcode.com/u/user0728fg/">Find me on Leetcode</a>
 
 </br>
 
