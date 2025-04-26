@@ -1,7 +1,7 @@
 ## Hi, I'm a Full-Stack developer
 
-Bachelors of Science in Computer Sciences from National University of Computer and Emerging Sciences, Karachi, Pakistan.
-
+- Bachelors of Science in Computer Sciences from National University of Computer and Emerging Sciences, Karachi, Pakistan.
+- Masters in Business Management from GISMA, Germany.
 - <a href="mailto:saadahm.siddiqui@gmail.com">saadahm.siddiqui@gmail.com</a>
 - <a href="https://leetcode.com/u/user0728fg/">Find me on Leetcode</a>
 
@@ -16,14 +16,7 @@ Bachelors of Science in Computer Sciences from National University of Computer a
 
 ## Addresses
 
-- EVM
-  - `0x98729c03c4D5e820F5e8c45558ae07aE63F97461`
-- COSMOS:
-  - `cosmos132rvcuend9hj03gkkctje4rr9zu4j30588l8tr`
-- SOL:
-  - `9NoCTAoKK56Qz3RCQgfSwqteGfgbxSBdNQ4FauQosEoA`
-- DOT:
-  - `14PUpssJjWjUu9VWpn4zzMb6TQaarBybZRdSPHTAvspvwKtB`
+- Find me on (etherscan)[https://etherscan.io/search?f=0&q=0x98729c03c4D5e820F5e8c45558ae07aE63F97461].
 
 SSH Public Key
 - `ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAICMFcwdsFd+ZAVFwJX1lS978ClYWkERfxqkvSFyXwgme saadahm.siddiqui@gmail.com`
