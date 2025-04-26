@@ -16,7 +16,7 @@
 
 ## Addresses
 
-- Find me on (etherscan)[https://etherscan.io/search?f=0&q=0x98729c03c4D5e820F5e8c45558ae07aE63F97461].
+- Find me on [etherscan](https://etherscan.io/search?f=0&q=0x98729c03c4D5e820F5e8c45558ae07aE63F97461).
 
 SSH Public Key
 - `ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAICMFcwdsFd+ZAVFwJX1lS978ClYWkERfxqkvSFyXwgme saadahm.siddiqui@gmail.com`
